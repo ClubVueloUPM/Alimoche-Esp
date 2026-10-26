@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380" viewBox="0 0 700 380" role="img" aria-label="Gráfica ilustrativa de muestras por mes">
+<rect width="700" height="380" fill="#ffffff"/>
+<text x="350" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#182435">Muestras por mes (datos ficticios)</text>
+<line x1="100" y1="70" x2="100" y2="300" stroke="#22354c" stroke-width="2"/>
+<line x1="100" y1="300" x2="630" y2="300" stroke="#22354c" stroke-width="2"/>
+<g font-family="Arial,sans-serif" font-size="15" fill="#22354c">
+<text x="365" y="358" text-anchor="middle">Mes</text>
+<text x="28" y="188" text-anchor="middle" transform="rotate(-90 28 188)">Muestras (ud)</text>
+</g>
+<line x1="100" y1="300.0" x2="630" y2="300.0" stroke="#dae1e8" stroke-width="1"/>
+<text x="77" y="305.0" font-family="Arial,sans-serif" font-size="15" fill="#22354c">0</text>
+<line x1="100" y1="245.0" x2="630" y2="245.0" stroke="#dae1e8" stroke-width="1"/>
+<text x="77" y="250.0" font-family="Arial,sans-serif" font-size="15" fill="#22354c">1</text>
+<line x1="100" y1="190.0" x2="630" y2="190.0" stroke="#dae1e8" stroke-width="1"/>
+<text x="77" y="195.0" font-family="Arial,sans-serif" font-size="15" fill="#22354c">2</text>
+<line x1="100" y1="135.0" x2="630" y2="135.0" stroke="#dae1e8" stroke-width="1"/>
+<text x="77" y="140.0" font-family="Arial,sans-serif" font-size="15" fill="#22354c">3</text>
+<line x1="100" y1="80.0" x2="630" y2="80.0" stroke="#dae1e8" stroke-width="1"/>
+<text x="77" y="85.0" font-family="Arial,sans-serif" font-size="15" fill="#22354c">4</text>
+<polyline points="180.0,135.0 540.0,80.0" fill="none" stroke="#1f5b84" stroke-width="4"/>
+<circle cx="180.0" cy="135.0" r="8" fill="#ffffff" stroke="#1f5b84" stroke-width="4"/>
+<text x="180.0" y="119.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#1f5b84">3</text>
+<text x="180.0" y="326" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#22354c">Enero</text>
+<circle cx="540.0" cy="80.0" r="8" fill="#ffffff" stroke="#1f5b84" stroke-width="4"/>
+<text x="540.0" y="64.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#1f5b84">4</text>
+<text x="540.0" y="326" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#22354c">Febrero</text>
+</svg>
