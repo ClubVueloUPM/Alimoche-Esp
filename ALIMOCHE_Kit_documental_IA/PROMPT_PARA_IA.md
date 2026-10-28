@@ -1,9 +1,0 @@
-# Encargo para la IA que integre este kit
-
-Integra la propuesta documental adjunta en el repositorio Git de ALIMOCHE. Antes de editar, inventaría el estado actual del Git y contrasta sus documentos con `LEEME_PRIMERO.md` y `para_repositorio/docs/INVENTARIO_Y_TRANSICION.md`. Usa `para_repositorio/docs/ESTANDAR_DOCUMENTAL.md` como propuesta de estructura, nomenclatura y metadatos, y adapta las plantillas sin sobrescribir trabajo más reciente.
-
-Entrega un cambio revisable que incluya README, guía para agentes, norma documental, inventario de transición y plantillas necesarias. Mantén los PDF originales y sus revisiones sin alterarlos. No declares aprobados borradores, no publiques emisiones ni inventes firmas, fechas, autores, códigos reservados o evidencia. Si encuentras una discrepancia entre documento, nombre de archivo y copia histórica, regístrala como incidencia para resolver con el responsable. En particular, el PDF activo `ALM-P00_Rev-0.2.pdf` indica revisión `0.1` en su cabecera.
-
-Conserva los identificadores `ASM-01`, `REQ-01` y `CRIT-01` del P00 actual al citarlo. No los renumeres automáticamente; la migración al esquema propuesto requiere una tabla de equivalencias y una nueva revisión controlada. Diferencia jerarquía documental (`padre`), secuencia (`sigue-a`) y dependencias técnicas (`dependencias`). La carpeta de cada documento debe coincidir con su código y permanecer al mismo nivel dentro de `documentos/`.
-
-Después de integrar, comprueba que la plantilla nueva compila con Typst 0.15.1 o documenta con precisión la versión usada y cualquier bloqueo. Revisa que los enlaces internos resuelvan, que ningún PDF existente cambió y que Git muestre solo los archivos esperados. Devuelve un resumen de cambios, pruebas y decisiones pendientes. No publiques ni etiquetes una revisión sin autorización y evidencia de aprobación.
