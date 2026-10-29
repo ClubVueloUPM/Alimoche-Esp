@@ -1,4 +1,4 @@
-#import "../../plantilla/alimoche.typ": *
+#import "../../../plantilla/alimoche.typ": *
 
 #show: documento.with(
   codigo: "ALM-00",
